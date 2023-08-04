@@ -1,0 +1,13 @@
+# Space Station 14 Stuff
+admin/src/*
+watchdog/src/*
+watchdog/data/dumps/*
+discord/src/*
+
+# Database
+database/*
+
+# Certificates
+certs/logs/*
+certs/letsencrypt/*
+certs/certbot/*
