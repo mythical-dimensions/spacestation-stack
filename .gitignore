@@ -11,3 +11,6 @@ database/*
 certs/logs/*
 certs/letsencrypt/*
 certs/certbot/*
+
+# Discord
+*.env
